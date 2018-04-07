@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".com.answersystem.lr.bbs.bbs" />
+        <activity android:name=".com.answersystem.lr.log_in.log_in" />
+        <activity android:name=".com.answersystem.lr.problem.problem"></activity>
     </application>
 
 </manifest>
